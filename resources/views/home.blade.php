@@ -160,12 +160,6 @@
 
     </section>
 
-    <div class="foot">
-        <div class="medsos">
-        <input type="text" placeholder="Comment"> <button id="submit" type="submit">Send</button>
-        </div>
-    </div>
-
     <script src="/js/main.js"></script>
 
 </body>
